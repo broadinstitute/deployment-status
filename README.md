@@ -1,6 +1,6 @@
 # Status Action
 
-Marks a deployment status for GitHub actions.
+Marks a deliverybot deployment status for GitHub actions.
 
 ## Parameters
 
